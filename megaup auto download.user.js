@@ -2,6 +2,8 @@
 // @icon         https://download.megaup.net/images/favicon.ico
 // @name     megaup auto download
 // @version  1.0
+// @updateURL    https://github.com/BDanielo/megaup.net-auto-download-userscript/raw/main/megaup%20auto%20download.user.js
+// @downloadURL  https://github.com/BDanielo/megaup.net-auto-download-userscript/raw/main/megaup%20auto%20download.user.js
 // @grant        window.close
 // @description Automatically start the download on megaup.net after the download button is visible. can be used to download many files at once with opening all the windows and waiting.
 // @include https://megaup.net/*
